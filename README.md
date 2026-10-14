@@ -16,8 +16,7 @@ This dashboard provides comprehensive insights into:
 ---
 
 ## 🖼️ Dashboard
-<img width="1402" height="793" alt="Bank Customer Analysis Dashboard" src="<img width="1402" height="793" alt="Screenshot 2026-10-14 145324" src="https://github.com/user-attachments/assets/aa55f4e6-d940-4256-bf6e-fc6af134b79e" />
-" />
+<img width="1402" height="793" alt="Screenshot 2026-10-14 145324" src="https://github.com/user-attachments/assets/aa55f4e6-d940-4256-bf6e-fc6af134b79e" />
 
 ---
 
