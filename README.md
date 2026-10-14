@@ -16,7 +16,7 @@ This dashboard provides comprehensive insights into:
 ---
 
 ## 🖼️ Dashboard
-<img width="1402" height="793" alt="Screenshot 2026-10-14 145324" src="https://github.com/user-attachments/assets/aa55f4e6-d940-4256-bf6e-fc6af134b79e" />
+<img width="1401" height="796" alt="Screenshot 2026-10-14 184729" src="https://github.com/user-attachments/assets/a3c5afe5-6002-4998-a716-2165abb4309d" />
 
 ---
 
